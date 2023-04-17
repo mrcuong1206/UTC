@@ -1,0 +1,12 @@
+1-1 : Khóa 1 trong 2 bên chuyển sang bên kia làm khóa ngoại, cần knoi lai vs nó
+1-n : Khóa bảng 1 chuyển sang nhiều làm khóa ngoại
+n-n: Tạo bảng trung gian
+Kiểu Thực thể -> Bảng
+Thuộc tính -> Thuộc tính
+
+
+1-1 : Lấy kháo chính của 1 bên chuyển sang bên còn lại.
+1-n : lấy khóa chính bảng 1 chuyển sang bên n làm khóa ngoại.
+n-n : Tạo bảng trung gian, chuyển khóa chính của 2 bên sang bảng trung gian
+
+https://utcedu.sharepoint.com/sites/MHT05.3-1-2-21.N05/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FMHT05%2E3%2D1%2D2%2D21%2EN05%2FShared%20Documents%2FCh%C6%B0%C6%A1ng%203%2E%20M%C3%B4%20h%C3%ACnh%20quan%20h%E1%BB%87%2FRecordings%2FMeeting%20in%20%5FCh%C6%B0%C6%A1ng%203%2E%20M%C3%B4%20h%C3%ACnh%20quan%20h%E1%BB%87%5F%2D20220114%5F154110%2DB%E1%BA%A3n%20ghi%20cu%E1%BB%99c%20h%E1%BB%8Dp%2Emp4&parent=%2Fsites%2FMHT05%2E3%2D1%2D2%2D21%2EN05%2FShared%20Documents%2FCh%C6%B0%C6%A1ng%203%2E%20M%C3%B4%20h%C3%ACnh%20quan%20h%E1%BB%87%2FRecordings

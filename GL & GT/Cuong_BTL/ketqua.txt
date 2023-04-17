@@ -1,0 +1,5 @@
+Nguyen Manh Cuong; 0337838201; 21956, 2, 1, 0, 1
+ 
+Nguyen Van Fred; 0337838202; 4697, 0, 2, 1, 0
+ 
+Pham Van Rooney; 0337838203; 4620, 0, 2, 0, 0

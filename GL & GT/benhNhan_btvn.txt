@@ -1,0 +1,26 @@
+8
+Nguyen Manh Cuong
+18
+A
+Nguyen Van Son
+18
+A
+Tran Van Dung
+17
+B
+Nguyen Viet Tien
+18
+A
+Luong Minh Thu 
+40
+B
+Nguyen Manh Trung
+17
+B
+Do Thi Hong Giang
+20
+A
+Ngo Ba Kha
+18
+B
+
